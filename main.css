@@ -6,40 +6,28 @@ body {
     text-align: center;
 }
 
-.arrow_box {
-    position: relative;
-	background: #0b7dd5;
-	border: 4px solid #0b7dd5;
-    height: 80px;
-    width: 500px;
-    border-radius: 20rem;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    top: -100px;
-    right: -950px;
-
-}
-.arrow_box:after, .arrow_box:before {
-	right: 100%;
-	top: 50%;
-	border: solid transparent;
-	content: "";
-	height: 0px;
-	width: 0px;
-	position: absolute;
-	pointer-events: none;
+.main-title {
+    font-size: 45pt;  
 }
 
-.arrow_box:after {
-	border-color: rgba(11, 125, 213, 0);
-	border-right-color: #0b7dd5;
-	border-width: 25px;
-	margin-top: -25px;
+.bi {
+    color: blueviolet;
 }
-.arrow_box:before {
-	border-color: rgba(11, 125, 213, 0);
-	border-right-color: #0b7dd5;
-	border-width: 31px;
-	margin-top: -31px;
+
+.sub-title {
+    font-size: 16pt;
 }
+
+.nav {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.img_1 {
+    display: block;
+    margin: auto;
+    width: 1000px;
+    height: 500px;   
+}
+
+
