@@ -1,0 +1,29 @@
+body {
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+#main-title {
+    font-size: 30pt;
+    padding: 5%;    
+}
+
+.btn {
+   margin: 5%;
+   position: relative;
+   left: 80%;
+
+   
+}
+
+table {
+    width: 50%;
+    border: 2px solid gray;
+    margin: auto;
+    
+  }
+
+th, td {
+    border: 2px solid gray;
+    padding: 5px;
+    text-align: center;
+  }
