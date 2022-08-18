@@ -4,15 +4,13 @@ body {
 
 #main-title {
     font-size: 30pt;
-    padding: 5%;    
+    padding: 5%;
+   
 }
-
 .btn {
    margin: 5%;
    position: relative;
-   left: 80%;
-
-   
+   left: 70%;
 }
 
 table {
@@ -27,3 +25,14 @@ th, td {
     padding: 5px;
     text-align: center;
   }
+
+.contents {
+  font-size: 18pt;
+  margin-left: 10em;
+
+}
+
+.images {
+  width:500px;
+  border-radius: 10px;
+}
