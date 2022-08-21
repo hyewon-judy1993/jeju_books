@@ -65,6 +65,10 @@ a:active {
   border-radius: 10px;
 }
 
+.copyright {
+  font-size: 12pt;
+}
+
 #explanation {
   font-size: 16px;
   margin-left: -100px;
