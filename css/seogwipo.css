@@ -55,7 +55,7 @@ a:active {
 
 }
 
-.bi-instagram {
+.bi {
   color: blueviolet;
 }
 
@@ -77,31 +77,13 @@ a:active {
 .box {
   background-color: rgb(13, 97, 194);
   color: white;
-  height: 250px;
-
-  padding: 5%;
+  height: 140px;
+  padding: 15px; 
 }
-/*.arrow_box {
-	position: relative;
-	background: #287abd;
-  width: 500px;
-  height: 300px;
-  border-radius: 100px;
-  margin-top: 100px;
-  margin-left: -80px;
 
+.book_store {
+  float:left;
 }
-.arrow_box:after {
-	right: 100%;
-	top: 50%;
-	border: solid transparent;
-	content: "";
-	height: 0;
-	width: 0%;
-	position: absolute;
-	pointer-events: none;
-	border-color: rgba(77, 213, 86, 0);
-	border-right-color: #4dd556;
-	border-width: 40px;
-	margin-top: -40px;
-} */
+.ex {
+  float: right; 
+}
