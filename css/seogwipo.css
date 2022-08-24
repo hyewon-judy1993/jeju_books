@@ -5,8 +5,7 @@ body {
 #main-title {
     font-size: 30pt;
     padding: 3%;
-    padding-bottom: 0;
-   
+    padding-bottom: 0;  
 }
 
 .btn {
@@ -15,44 +14,29 @@ body {
    left: 70%;
 }
 
-table {
-    width: 50%;
-    border: 2px solid gray;
-    margin: auto;
-    
-  }
 
-th, td {
-    border: 2px solid gray;
-    padding: 5px;
-    text-align: center;
-  }
-
-a:link {
-  text-decoration: none;
-  color: black;
+.list-group-item {
+  width: 300px;
+  text-align: center;
 }
 
-a:visited {
-  text-decoration: none;
-  color: black;
+.container {
+  width: 960px;
+  margin-left: 100px;
+ 
+}
+.contents {
+  display: flex;
 }
 
-a:hover {
-  text-decoration: none;
-  color: black;
+.main {
+  width: 630px;
+  height: 500px;
 }
 
-a:active {
-  text-decoration: none;
-  color: black;
-}
-
-
-#contents {
-  font-size: 18pt;
-  margin-left: 10em; 
-
+.aside {
+  width: 330px;
+  height: 500px;
 }
 
 .bi {
@@ -69,21 +53,21 @@ a:active {
   font-size: 12pt;
 }
 
-#explanation {
-  font-size: 16px;
-  margin-left: -100px;
+.title-books {
+  font-size: 18pt;
+  font-weight: bold;
 }
 
 .box {
   background-color: rgb(13, 97, 194);
   color: white;
   height: 140px;
-  padding: 15px; 
+  width: 750px;
+  padding: 20px;
+ 
 }
 
-.book_store {
-  float:left;
+.show {
+  display: block;
 }
-.ex {
-  float: right; 
-}
+
