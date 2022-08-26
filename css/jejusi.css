@@ -9,7 +9,7 @@ body {
 }
 
 .btn {
- background-color: blueviolet;
+ background-color: rgb(210, 212, 49);
  margin: 5%;
  position: relative;
  left: 70%;
@@ -28,6 +28,7 @@ cursor: pointer;
 
 .container {
 width: 1500px;
+height: 1500px;
 margin: 4%;
 }
 
@@ -58,7 +59,7 @@ font-size: 14pt;
 }
 
 .bi {
-color: blueviolet;
+color: rgb(210, 212, 49);
 }
 
 .images {

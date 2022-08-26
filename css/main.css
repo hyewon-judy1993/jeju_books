@@ -1,9 +1,18 @@
 body {
     font-family: 'Gowun Dodum', sans-serif;
 }
+
+.container {
+    display: flex;
+    width: 1500px;
+    height: 720px;
+}
 .title {
-    padding-top: 100px;
+    padding-top: 280px;
+    padding-left: 80px;
+    width: 700px;
     text-align: center;
+    height: 720px;
 }
 
 .main-title {
@@ -22,8 +31,8 @@ body {
 .img_1 {
     display: block;
     margin: auto;
-    width: 1000px;
-    height: 500px;   
+    width: 800px;
+    height: 720px;
 }
 
 
