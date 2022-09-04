@@ -16,79 +16,69 @@ let tab = $('.list-group-item');
 let contents_1 = $('.container-2');
 
 for (let v= 0; v < tab.length; v++){
-    tab.eq(v).on('click', function(data){
+    tab.eq(v).on('click', function(){
         open(v)
     })
 };
 
 function open(v) {
-tab.eq(v).on('click', function(data){
+tab.eq(v).on('click', function(){
     contents_1.removeClass('show');
     contents_1.eq(v).addClass('show');
 })}
 
 
 
-function ajax() {
-    fetch("./data/seogwipo.json").then(function(response){
-        if(response.status != 200) {
-            alert("서버와 통신에 실패했습니다")
-        } else {
-            return response.json();
-        }
-    }).then(function(data){
-       
-        let article = document.querySelector('.container-2');
-     
-        
-        let tag = "";
+const json = JSON.parse(JSON.stringify(stores));
+//console.log(json);
 
-        for(let i = 0; i < data.length; i++) {
-           let name = data[i].name;
-           let web = data[i].Web;
-           let sns = data[i].SNS;
-           let img = data[i].img;
-           let copyright = data[i].copyright;
-           let address = data[i].address;
-           let opening_hours = data[i].opening_hours;
-           let phone_number = data[i].phone_number;
-           let description = data[i].description; 
-       
-          
-            //console.log(name,web,sns,img,copyright,address,opening_hours,phone_number,description)
-           
-            tag +='<div class="contents">';
-            tag += '<div class="main">';
-            tag += '<p>'+ name; 
-            tag += '<a href="'+ web +'" target="_blank">';
-            tag += '<i class="'+ sns +'"></i>';
-            tag += '</a>' ;
-            tag += '<br><br>';   
-            tag += '<img class="images" src="'+ img +'" />';
-            tag += '</p>';
-            tag += '<span class="copyright">'+ copyright +'</span>';
-            tag += '</div>';
-            tag += '<div class="aside">';
-            tag += '<br><br><br><br>';
-            tag += address + '<br>';
-            tag += opening_hours + '<br>';
-            tag += phone_number + '<br><br>';
-            tag += '<br>'+description;    
-            tag += '</div>';
-            tag += '</div>';
+const stores1 =[stores.store_1];
+const stores2 =[stores.store_2];
+//document.querySelector('.contents').innerHTML=JSON.stringify(stores2);
+//console.log(stores1);
+//console.log(stores2);
 
+let list = Object.keys(json);
+let data = Object.values(json);
+//console.log(list.length);
+//console.log(data.length);
 
-        } // end for
-        article.innerHTML = tag ;
+for ( let i = 0; i < list.length; i++ ) {
 
+    //console.log(data[i]);
+    
+    let name = data[i].name
+    let web = data[i].Web;
+    let sns = data[i].SNS;
+    let img = data[i].img;
+    let copyright = data[i].copyright;
+    let address = data[i].address;
+    let opening_hours = data[i].opening_hours;
+    let phone_number = data[i].phone_number;
+    let description = data[i].description; 
 
-    })
-}
+    let temp_html = 
+                            `<div class="contents">
+                                <div class="main">
+                                    <p> ${name} <a href= ${web} target="_blank"><i class= ${sns}></i></a> 
+                                        <br><br>
+                                        <img class="images"src=${img}></p>
+                                        <span class="copyright"> ${copyright}</span>
+                                </div>
+                                <div class="aside">
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    ${address} <br>
+                                    ${opening_hours}<br>
+                                    ${phone_number} <br><br>
+                                    <br>
+                                    ${description}
+                                </div>
+                            </div> 
+                        </div>`
 
-(function() {
-    ajax();
-})();
-
-
-
+$('.container-2').append(temp_html)
+} 
 

@@ -1,156 +1,180 @@
-[
-  {
-    "name": "🌈 책방무사",
-    "Web": "https://www.instagram.com/musabooks/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서귀포시_책방무사.jpg",
-    "copyright": "- 출처: seull_a 인스타그램",
-    "address": "📍 주소: 서귀포시 성산읍 수시로10번길 3",
-    "opening_hours": "⏰ 운영시간: 12:00 ~ 18:00 (수요일 휴무)",
-    "phone_number": "📞 010-6584-6571",
-    "description": "‘무사하다’의 뜻을 가진 책방 무사는 가수 ‘요조’가 운영하는 독립서점이에요!<br> 서울, 제주 2곳에 운영하고 있어요.베스트 셀러보다는 독립 출판물 위주이며 요조의 에세이도 있고,<br> 여성관련 서적들도 꽤 있답니다.<br> 그리고 서점 옆에 ‘카페 공드리’와 서점 들어오는 입구에 보라색 필름 자판기가 있으니 한번 들러보세요😋"
-  },
-  {
-    "name": "🌈 북타임",
-    "Web": "https://www.facebook.com/booktimejeju",
-    "SNS": "bi bi-facebook",
-    "img": "images/서귀포시_북타임.jpg",
-    "address": "📍 주소: 서귀포시 남원읍 위미중앙로 160",
-    "opening_hours": "⏰ 운영시간: 10:00 ~ 19:00 (월요일 휴무)",
-    "phone_number": "📞 064-763-5511",
-    "description": " 둥그런 아치 모양의 독특한 책장이 매력적인 공간입니다.<br> 일반서적도 꽤 있는 편이고 책방지기님이 자필로 직접 적으신 책 소개 쪽지도 하나하나 보는 매력이 있으니 북타임의 소박하지만 정겨운 매력을 느껴보시길 바랄게요."
-  },
-  {
-    "name": "🌈 그림책방 노란우산",
-    "Web": "https://www.instagram.com/bookshopnoranusan/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서귀포시_그림책방노란우산.jpg",
-    "address": "📍 주소: 서귀포시 안덕면 녹차분재로 32 (서광점) / 제주시 애월읍 하광로 515 104동 102호 (광령점)",
-    "opening_hours": "⏰ 운영시간: 10:00 ~ 19:00 (일요일 휴무)",
-    "phone_number": "📞 064-794-9313",
-    "description": "서귀포, 제주시 2곳에서 운영중이며, 그림책 전문 책방입니다.<br> 아이들과 함께 방문하기 좋고, 카페도 같이 운영하고 있어서 맛있는 커피와 함께 할 수 있어요.<br> 하지만, 책이나 음료 구매하시는 분들만 입장 가능하니 참고하세요!"
-  },
-  {
-    "name": "🌈 북다마스",
-    "Web": "https://www.instagram.com/book_damas/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서귀포시_북다마스.jpg",
-    "address": "📍 주소: 서귀포시 안덕면 서광동로25번길 13, 버터행성 706",
-    "opening_hours": "⏰ 운영시간: 북다마스IN 12:30 ~ 18:00 / 북다마스 10:00 ~ 22:00",
-    "phone_number": "📞 010-5564-9929",
-    "description": "'북다마스'는 다마스(자동차)로 이동하며 독립출판물 위주로 판매하는 이동책방이고,<br>출점 안내는 인스타그램을 참고 해주세요🚐<br>'북다마스IN'은 북다마스에서 ‘버터행성706’이라는 카페내에서 운영하는 책방이며 독립출판물, 인문, 문학 위주의 책을 판매하고 있어요!"
-  },
-  {
-    "name": "🌈 사계리 서점",
-    "Web": "https://www.instagram.com/four_seasonbookstore/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서귀포시_사계리서점.jpg",
-    "address": "📍 주소: 서귀포시 안덕면 사계로114번길 54-58, 1층",
-    "opening_hours": "⏰ 운영시간: 11:00 ~ 17:30 (일요일 휴무)",
-    "phone_number": "📞 070-7655-2118",
-    "description": "🕵🏻추리소설, 👾SF소설과 같은 장르소설만 취급하는 서점입니다!<br> 산방산 쪽에 위치하고 있어서 뷰는 물론 2층엔 커피 마시는 자리 까지!<br> 책을 구매해 산방산 뷰를 보며 커피를 마시는 느낌적인 느낌이 너무 좋은 곳이랍니다.<br>참, 애견동반도 가능해서 애완동물도 함께 방문 가능하니 너무 좋겠죠?"
-  },
-  {
-    "name": "🌈 어떤바람",
-    "web" : "https://www.instagram.com/jeju.windybooks/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 안덕면 산방로 374",
-    "opening_hours": "⏰ 운영시간: 12:00 ~ 18:00 (일요일,월요일 휴무)",
-    "phone_number": "📞 064-792-2830",
-    "description": " 건물 외벽 담쟁이 넝쿨이 예쁜 책방입니다.<br>귀여운 소품들은 물론이고 내부에 책을 읽일 수 있는 자리도 조그맣게 마련되어 있고 종종 낭독회나<br>북토크 같은 프로그램도 이루어지니 인스타 그램 참고하세요!"
-  },
-  {
-    "name": "🌈 라바북스",
-    "Web": "https://www.instagram.com/labas.book/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 남원읍 태위로 87 1층",
-    "opening_hours": "⏰ 운영시간: 12:00 ~ 18:00  (휴무는 달마다 다름, 인스타 참고)",
-    "phone_number": "📞 0507-1477-0444",
-    "description": "다양한 독립서적이 있고, 특히나 여행&사진 관련 책들이 꽤 있는 편!<br>아름다운 제주의 풍경이 담긴 엽서 및 귀여운 문구, 그리도 소품들 까지😆<br>보는 재미가 쏠쏠한 곳이랍니다."
-  },
-  {
-    "name": "🌈 키라네 책부엌",
-    "Web": "https://www.instagram.com/bookkitchen_jeju/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 남원읍 신흥앞동산로35번길 6-7",
-    "opening_hours": "⏰ 운영시간: 11:00 ~ 17:00  (월요일,화요일 휴무)",
-    "phone_number": "📞 0507-1387-2352",
-    "description": "향긋한 귤 밭 안에 있는 책방🍊 예약제로 운영하고 있어서 방문 전 사전예약은 필수이고요.<br> '노키즈 존'입니다. 음식관련 소설이나 에세이들도 많고,<br>책방 이름에 걸맞게 요리 관련 소품이나 식품도 판매하고 있어요."
-  },
-  {
-    "name": "🌈 인터뷰 책방",
-    "Web": "http://instagram.com/interviewjeju",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 중산간동로 8583, 2층",
-    "opening_hours": "⏰ 운영시간: 12:00 ~ 19:00  (수요일,일요일 휴무)",
-    "phone_number": "📞 010-5758-3874",
-    "description": "'EBS 발견의 기쁨-동네책방' 프로그램에 소개된 곳입니다.<br>책방에서 출판한 제주형 독립출판물 및 제주 관련 서적들을 모아놓은 코너가 있고요!<br>LP판을 청음할 수 있는 공간도 작게 있으니 많관부!"
-  },
-  {
-    "name": "🌈 어나더페이지",
-    "Web": "http://www.instagram.com/anotherpage_books",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 대정읍 동일하모로220번길 19",
-    "opening_hours": "⏰ 운영시간: 일~수 11:00 ~ 17:00 / 금~토 11:00 ~ 19:00 (목요일 휴무)",
-    "phone_number": "📞 0507-1334-4276",
-    "description": "'지구시민책방'이라는 애칭을 가지고 있는 책방입니다🌏 <br>환경, 로컬, 다양성을 추구하는 책방이고요. 다향한 주제의 프로그램도 진행하고 있어요.<br>코끼리 분변으로 만든 노트 등과 친환경적인 소품을 판매하고 있고,<br> ☕공정무역커피(제3세계의 가난한 커피 재배농가의 커피를 공정한 가격에 거래하는 커피)를 판매합니다!"
-  },
-  {
-    "name": "🌈 그건그렇고",
-    "Web": "http://www.instagram.com/btwjeju",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 상예로 224",
-    "opening_hours": "⏰ 운영시간: 12:00 ~ 19:00 (수요일, 목요일 휴무)",
-    "phone_number": "📞 0507-1311-8780",
-    "description": "비매품 책과 판매용 책이 구분되어 있는데 샘플 책들은 마음껏 읽어 볼 수 있어요!<br> 차와 커피, 그리고 맥주까지 판매하고 있고요~ <br>손님들의 편안한 독서시간을 위해 책방지기님은 책방 어딘가에 숨어계시답니다🤣"
-  },
-  {
-    "name": "🌈 유화당",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 태평로 409-2",
-    "opening_hours": "⏰ 운영시간: 월 12:00 ~ 21:00 / 화~토 10:00 ~ 21:00 (일요일 휴무)<",
-    "phone_number": "📞 010-6471-5880",
-    "description": "글과 이야기가 있는 집.이중섭 거리에 위치하고 있어서 예술적이고 묵직하며 고즈넉한 책방이랍니다.<br>책이 정렬되어 있는 모습이 독특하게 느껴질 수도 있습니다!<br> 독서모임과 글쓰기모임도 종종 진행한다고 하니 책방지기님께 문의해보세요~" 
-  },
-  {
-    "name": "🌈 푸근한 곰아저씨",
-    "Web": "http://instagram.com/unclewarmgom",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 남원읍 태신해안로 125, 2층",
-    "opening_hours": "⏰ 운영시간: 11:00 ~ 17:00<",
-    "phone_number": "📞 0507-1495-1035",
-    "description": "'모카다방'이라는 카페와 같이 운영중인 책방입니다.<br> 노란색 건물이 인상적이고, 서점 안도 목조스타일로 꾸며져 있어 따뜻한 느낌이 들어요.<br>바로 앞에 남원바다와 등대가 보이구요, 베스트셀러부터 독립출판물까지 종류가 다양한 편입니다!<br> 그리고 책방지기님이 직접 쓰시고 출판한 책도 있으니 구경해보세요."
-  },
-  {
-    "name": "🌈 시옷서점",
-    "Web": "https://blog.naver.com/bookshsa",
-    "SNS": "bi bi-laptop",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 중앙로153번길 5",
-    "opening_hours": "⏰ 운영시간:  10:00 ~ 13:00 (금요일,토요일,일요일 휴무)",
-    "phone_number": "📞 0507-1408-2592",
-    "description": "시인부부가 운영하는 시집전문 서점.<br> 주로 제주와 관련된 시집이나 산문집을 판매하고 제주 음악가들의 음반도 구매 할 수 있어요!"
-  },
-  {
-    "name": "🌈 취향의섬 북앤띵즈",
-    "Web": "https://www.instagram.com/chwihyang.books/",
-    "SNS": "bi bi-instagram",
-    "img": "images/서점_2.jpg",
-    "address": "📍 주소: 서귀포시 속골로 66-7",
-    "opening_hours": "⏰ 운영시간: 10:00 ~ 17:00 (화요일, 수요일 휴무)",
-    "phone_number": "📞 010-2931-4797",
-    "description": "아름다운 귤밭뷰를 배경삼아 다양한 소품들과 책들을 볼 수 있는 곳🍊<br>분야별로 책이 잘 구분되어 있지만 아직까지는 어린이책은 없다는 점 참고해주세요😥! "
-  }
-]
-
-
-
-
+const stores = {
+  "store_1" : 
+    {
+      "name": "🌈 책방무사",
+      "Web": "https://www.instagram.com/musabooks/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서귀포시_책방무사.jpg",
+      "copyright": "- 출처: seull_a 인스타그램",
+      "address": "📍 주소: 서귀포시 성산읍 수시로10번길 3",
+      "opening_hours": "⏰ 운영시간: 12:00 ~ 18:00 (수요일 휴무)",
+      "phone_number": "📞 010-6584-6571",
+      "description": "‘무사하다’의 뜻을 가진 책방 무사는 가수 ‘요조’가 운영하는 독립서점이에요!<br> 서울, 제주 2곳에 운영하고 있어요.베스트 셀러보다는 독립 출판물 위주이며 요조의 에세이도 있고,<br> 여성관련 서적들도 꽤 있답니다.<br> 그리고 서점 옆에 ‘카페 공드리’와 서점 들어오는 입구에 보라색 필름 자판기가 있으니 한번 들러보세요😋"
+    },
+  "store_2" :
+    {
+      "name": "🌈 북타임",
+      "Web": "https://www.facebook.com/booktimejeju",
+      "SNS": "bi bi-facebook",
+      "img": "images/서귀포시_북타임.jpg",
+      "address": "📍 주소: 서귀포시 남원읍 위미중앙로 160",
+      "opening_hours": "⏰ 운영시간: 10:00 ~ 19:00 (월요일 휴무)",
+      "phone_number": "📞 064-763-5511",
+      "description": " 둥그런 아치 모양의 독특한 책장이 매력적인 공간입니다.<br> 일반서적도 꽤 있는 편이고 책방지기님이 자필로 직접 적으신 책 소개 쪽지도 하나하나 보는 매력이 있으니 북타임의 소박하지만 정겨운 매력을 느껴보시길 바랄게요."
+    }
+  ,
+  "store_3" :
+    {
+      "name": "🌈 그림책방 노란우산",
+      "Web": "https://www.instagram.com/bookshopnoranusan/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서귀포시_그림책방노란우산.jpg",
+      "address": "📍 주소: 서귀포시 안덕면 녹차분재로 32 (서광점) / 제주시 애월읍 하광로 515 104동 102호 (광령점)",
+      "opening_hours": "⏰ 운영시간: 10:00 ~ 19:00 (일요일 휴무)",
+      "phone_number": "📞 064-794-9313",
+      "description": "서귀포, 제주시 2곳에서 운영중이며, 그림책 전문 책방입니다.<br> 아이들과 함께 방문하기 좋고, 카페도 같이 운영하고 있어서 맛있는 커피와 함께 할 수 있어요.<br> 하지만, 책이나 음료 구매하시는 분들만 입장 가능하니 참고하세요!"
+    }
+  ,
+  "store_4" :
+    {
+      "name": "🌈 북다마스",
+      "Web": "https://www.instagram.com/book_damas/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서귀포시_북다마스.jpg",
+      "address": "📍 주소: 서귀포시 안덕면 서광동로25번길 13, 버터행성 706",
+      "opening_hours": "⏰ 운영시간: 북다마스IN 12:30 ~ 18:00 / 북다마스 10:00 ~ 22:00",
+      "phone_number": "📞 010-5564-9929",
+      "description": "'북다마스'는 다마스(자동차)로 이동하며 독립출판물 위주로 판매하는 이동책방이고,<br>출점 안내는 인스타그램을 참고 해주세요🚐<br>'북다마스IN'은 북다마스에서 ‘버터행성706’이라는 카페내에서 운영하는 책방이며 독립출판물, 인문, 문학 위주의 책을 판매하고 있어요!"
+    }
+  ,
+  "store_5" :
+    {
+      "name": "🌈 사계리 서점",
+      "Web": "https://www.instagram.com/four_seasonbookstore/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서귀포시_사계리서점.jpg",
+      "address": "📍 주소: 서귀포시 안덕면 사계로114번길 54-58, 1층",
+      "opening_hours": "⏰ 운영시간: 11:00 ~ 17:30 (일요일 휴무)",
+      "phone_number": "📞 070-7655-2118",
+      "description": "🕵🏻추리소설, 👾SF소설과 같은 장르소설만 취급하는 서점입니다!<br> 산방산 쪽에 위치하고 있어서 뷰는 물론 2층엔 커피 마시는 자리 까지!<br> 책을 구매해 산방산 뷰를 보며 커피를 마시는 느낌적인 느낌이 너무 좋은 곳이랍니다.<br>참, 애견동반도 가능해서 애완동물도 함께 방문 가능하니 너무 좋겠죠?"
+    }
+  ,
+  "store_6" :
+    {
+      "name": "🌈 어떤바람",
+      "web" : "https://www.instagram.com/jeju.windybooks/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 안덕면 산방로 374",
+      "opening_hours": "⏰ 운영시간: 12:00 ~ 18:00 (일요일,월요일 휴무)",
+      "phone_number": "📞 064-792-2830",
+      "description": " 건물 외벽 담쟁이 넝쿨이 예쁜 책방입니다.<br>귀여운 소품들은 물론이고 내부에 책을 읽일 수 있는 자리도 조그맣게 마련되어 있고 종종 낭독회나<br>북토크 같은 프로그램도 이루어지니 인스타 그램 참고하세요!"
+    }
+  ,
+  "store_7" :
+    {
+      "name": "🌈 라바북스",
+      "Web": "https://www.instagram.com/labas.book/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 남원읍 태위로 87 1층",
+      "opening_hours": "⏰ 운영시간: 12:00 ~ 18:00  (휴무는 달마다 다름, 인스타 참고)",
+      "phone_number": "📞 0507-1477-0444",
+      "description": "다양한 독립서적이 있고, 특히나 여행&사진 관련 책들이 꽤 있는 편!<br>아름다운 제주의 풍경이 담긴 엽서 및 귀여운 문구, 그리도 소품들 까지😆<br>보는 재미가 쏠쏠한 곳이랍니다."
+    }
+  ,
+  "store_8" :
+    {
+      "name": "🌈 키라네 책부엌",
+      "Web": "https://www.instagram.com/bookkitchen_jeju/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 남원읍 신흥앞동산로35번길 6-7",
+      "opening_hours": "⏰ 운영시간: 11:00 ~ 17:00  (월요일,화요일 휴무)",
+      "phone_number": "📞 0507-1387-2352",
+      "description": "향긋한 귤 밭 안에 있는 책방🍊 예약제로 운영하고 있어서 방문 전 사전예약은 필수이고요.<br> '노키즈 존'입니다. 음식관련 소설이나 에세이들도 많고,<br>책방 이름에 걸맞게 요리 관련 소품이나 식품도 판매하고 있어요."
+    }
+  ,
+  "store_9" :
+    {
+      "name": "🌈 인터뷰 책방",
+      "Web": "http://instagram.com/interviewjeju",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 중산간동로 8583, 2층",
+      "opening_hours": "⏰ 운영시간: 12:00 ~ 19:00  (수요일,일요일 휴무)",
+      "phone_number": "📞 010-5758-3874",
+      "description": "'EBS 발견의 기쁨-동네책방' 프로그램에 소개된 곳입니다.<br>책방에서 출판한 제주형 독립출판물 및 제주 관련 서적들을 모아놓은 코너가 있고요!<br>LP판을 청음할 수 있는 공간도 작게 있으니 많관부!"
+    }
+  ,
+  "store_10" :
+    {
+      "name": "🌈 어나더페이지",
+      "Web": "http://www.instagram.com/anotherpage_books",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 대정읍 동일하모로220번길 19",
+      "opening_hours": "⏰ 운영시간: 일~수 11:00 ~ 17:00 / 금~토 11:00 ~ 19:00 (목요일 휴무)",
+      "phone_number": "📞 0507-1334-4276",
+      "description": "'지구시민책방'이라는 애칭을 가지고 있는 책방입니다🌏 <br>환경, 로컬, 다양성을 추구하는 책방이고요. 다향한 주제의 프로그램도 진행하고 있어요.<br>코끼리 분변으로 만든 노트 등과 친환경적인 소품을 판매하고 있고,<br> ☕공정무역커피(제3세계의 가난한 커피 재배농가의 커피를 공정한 가격에 거래하는 커피)를 판매합니다!"
+    }
+  ,
+  "store_11" :
+    {
+      "name": "🌈 그건그렇고",
+      "Web": "http://www.instagram.com/btwjeju",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 상예로 224",
+      "opening_hours": "⏰ 운영시간: 12:00 ~ 19:00 (수요일, 목요일 휴무)",
+      "phone_number": "📞 0507-1311-8780",
+      "description": "비매품 책과 판매용 책이 구분되어 있는데 샘플 책들은 마음껏 읽어 볼 수 있어요!<br> 차와 커피, 그리고 맥주까지 판매하고 있고요~ <br>손님들의 편안한 독서시간을 위해 책방지기님은 책방 어딘가에 숨어계시답니다🤣"
+    }
+  ,
+  "store_12" :
+    {
+      "name": "🌈 유화당",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 태평로 409-2",
+      "opening_hours": "⏰ 운영시간: 월 12:00 ~ 21:00 / 화~토 10:00 ~ 21:00 (일요일 휴무)<",
+      "phone_number": "📞 010-6471-5880",
+      "description": "글과 이야기가 있는 집.이중섭 거리에 위치하고 있어서 예술적이고 묵직하며 고즈넉한 책방이랍니다.<br>책이 정렬되어 있는 모습이 독특하게 느껴질 수도 있습니다!<br> 독서모임과 글쓰기모임도 종종 진행한다고 하니 책방지기님께 문의해보세요~" 
+    }
+  ,
+  "store_13" :
+    {
+      "name": "🌈 푸근한 곰아저씨",
+      "Web": "http://instagram.com/unclewarmgom",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 남원읍 태신해안로 125, 2층",
+      "opening_hours": "⏰ 운영시간: 11:00 ~ 17:00<",
+      "phone_number": "📞 0507-1495-1035",
+      "description": "'모카다방'이라는 카페와 같이 운영중인 책방입니다.<br> 노란색 건물이 인상적이고, 서점 안도 목조스타일로 꾸며져 있어 따뜻한 느낌이 들어요.<br>바로 앞에 남원바다와 등대가 보이구요, 베스트셀러부터 독립출판물까지 종류가 다양한 편입니다!<br> 그리고 책방지기님이 직접 쓰시고 출판한 책도 있으니 구경해보세요."
+    }
+  ,
+  "store_14" :
+    {
+      "name": "🌈 시옷서점",
+      "Web": "https://blog.naver.com/bookshsa",
+      "SNS": "bi bi-laptop",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 중앙로153번길 5",
+      "opening_hours": "⏰ 운영시간:  10:00 ~ 13:00 (금요일,토요일,일요일 휴무)",
+      "phone_number": "📞 0507-1408-2592",
+      "description": "시인부부가 운영하는 시집전문 서점.<br> 주로 제주와 관련된 시집이나 산문집을 판매하고 제주 음악가들의 음반도 구매 할 수 있어요!"
+    }
+  ,
+  "store_15" :
+    {
+      "name": "🌈 취향의섬 북앤띵즈",
+      "Web": "https://www.instagram.com/chwihyang.books/",
+      "SNS": "bi bi-instagram",
+      "img": "images/서점_2.jpg",
+      "address": "📍 주소: 서귀포시 속골로 66-7",
+      "opening_hours": "⏰ 운영시간: 10:00 ~ 17:00 (화요일, 수요일 휴무)",
+      "phone_number": "📞 010-2931-4797",
+      "description": "아름다운 귤밭뷰를 배경삼아 다양한 소품들과 책들을 볼 수 있는 곳🍊<br>분야별로 책이 잘 구분되어 있지만 아직까지는 어린이책은 없다는 점 참고해주세요😥! "
+    }
   
+};
