@@ -1,4 +1,3 @@
-
 const json = JSON.parse(JSON.stringify(stores));
 //console.log(json);
 
@@ -27,58 +26,61 @@ let data = Object.values(json);
     // let opening_hours = data[i].opening_hours;
     // let phone_number = data[i].phone_number;
     // let description = data[i].description; 
+    for ( let i = 0; i < data.length; i++ ) {
 
     let temp_html = 
                             `<div class="contents">
                                 <div class="main">
-                                    <p> ${data[0].name} <a href= ${data[0].web} target="_blank"><i class= ${data[0].sns}></i></a> 
+                                    <p> ${data[i].name} <a href= ${data[i].web} target="_blank"><i class= ${data[i].sns}></i></a> 
                                         <br><br>
-                                        <img class="images"src=${data[0].img}></p>
-                                        <span class="copyright"> ${data[0].copyright}</span>
+                                        <img class="images"src=${data[i].img}></p>
+                                        <span class="copyright"> ${data[i].copyright}</span>
                                 </div>
                                 <div class="aside">
                                     <br>
                                     <br>
                                     <br>
                                     <br>
-                                    ${data[0].address} <br>
-                                    ${data[0].opening_hours}<br>
-                                    ${data[0].phone_number} <br><br>
+                                    ${data[i].address} <br>
+                                    ${data[i].opening_hours}<br>
+                                    ${data[i].phone_number} <br><br>
                                     <br>
-                                    ${data[0].description}
+                                    ${data[i].description}
                                 </div>
                             </div> 
                         </div>`;
 $('.container-2').append(temp_html)
 
 
-    let temp_html2 = 
-                            `<div class="contents">
-                                <div class="main">
-                                    <p> ${data[1].name} <a href= ${data[1].web} target="_blank"><i class= ${data[1].sns}></i></a> 
-                                        <br><br>
-                                        <img class="images"src=${data[1].img}></p>
-                                        <span class="copyright"> ${data[1].copyright}</span>
-                                </div>
-                                <div class="aside">
-                                    <br>
-                                    <br>
-                                    <br>
-                                    <br>
-                                    ${data[1].address} <br>
-                                    ${data[1].opening_hours}<br>
-                                    ${data[1].phone_number} <br><br>
-                                    <br>
-                                    ${data[1].description}
-                                </div>
-                            </div> 
-                            </div>`;
-    $('.container-2-1').append(temp_html2)
-//} ;
+
+//     let temp_html2 = 
+//                             `<div class="contents">
+//                                 <div class="main">
+//                                     <p> ${data[1].name} <a href= ${data[1].web} target="_blank"><i class= ${data[1].sns}></i></a> 
+//                                         <br><br>
+//                                         <img class="images"src=${data[1].img}></p>
+//                                         <span class="copyright"> ${data[1].copyright}</span>
+//                                 </div>
+//                                 <div class="aside">
+//                                     <br>
+//                                     <br>
+//                                     <br>
+//                                     <br>
+//                                     ${data[1].address} <br>
+//                                     ${data[1].opening_hours}<br>
+//                                     ${data[1].phone_number} <br><br>
+//                                     <br>
+//                                     ${data[1].description}
+//                                 </div>
+//                             </div> 
+//                             </div>`;
+//     $('.container-2-1').append(temp_html2)
+// //} ;
 
 
 let tab = $('.list-group-item');
-let contents_1 = $('#more');
+let contents_1 = $('.container-2');
+
 
 for (let v= 0; v < tab.length; v++){
     tab.eq(v).on('click', function(){
@@ -90,5 +92,6 @@ function open(v) {
 tab.eq(v).on('click', function(){
     contents_1.removeClass('show');
     contents_1.eq(v).addClass('show');
+   
   
-})}
+})}}
